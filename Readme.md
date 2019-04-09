@@ -1,3 +1,2 @@
-####Universal Missions
-
-This project investigates the possibility of sending a planetary lander to Mars.
+#### Universal Missions
+This project investigates the possibilities
